@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baidu Test
 // @namespace    http://tampermonkey.net/
-// @version      2
+// @version      3
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.baidu.com/
@@ -13,5 +13,5 @@
     'use strict';
 
     // Your code here...
-    alert('2')
+    alert('3')
 })();
