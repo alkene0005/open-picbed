@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baidu Test
 // @namespace    http://tampermonkey.net/
-// @version      3
+// @version      4
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.baidu.com/
