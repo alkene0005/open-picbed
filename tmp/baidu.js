@@ -13,5 +13,5 @@
     'use strict';
 
     // Your code here...
-    alert('3')
+    alert('2')
 })();
